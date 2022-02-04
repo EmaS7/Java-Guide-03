@@ -38,6 +38,9 @@ public class Main {
     
     public static void sumaLista(ArrayList<Integer> suma){
         int calc=0;
+        int num1;     //this is
+        int num2;    //     just fot test 
+        
         for (Integer aux : suma) {
             calc += aux;
         }
